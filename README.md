@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Data Analytics, Coding, Projects, General Discussion, Movies, Cooking
 - ⚡ Fun fact: I am passionate about teaching and like playing badminton 🏸 and ice-skating ⛸️. I am an avid foodie and enjoy cooking 👨‍🍳
 
-<br>
 
 <!--
 - 👯 I’m looking to collaborate on ...
