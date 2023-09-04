@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="sshah023@illinois.edu" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dmail%2Bicon%2Bcolor&psig=AOvVaw1mSVxdLceCc5w0bpEHuBTY&ust=1693905873083000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCIDTyKDRkIEDFQAAAAAdAAAAABAE" alt="sshah023@illinois.edu" height="30" width="40" /></a>
+  <a href="sshah023@illinois.edu" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dmail%2Bicon%2Bcolor&psig=AOvVaw1mSVxdLceCc5w0bpEHuBTY&ust=1693905873083000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCIDTyKDRkIEDFQAAAAAdAAAAABAE" alt="sshah023@illinois.edu" height="30" width="40" /></a>
+
+  [![Email Me]([https://via.placeholder.com/150](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dmail%2Bicon%2Bcolor&psig=AOvVaw1mSVxdLceCc5w0bpEHuBTY&ust=1693905873083000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCIDTyKDRkIEDFQAAAAAdAAAAABAE))](mailto:sshah023@illinois.edu)
+  
 <a href="https://linkedin.com/in/shreysshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreysshah" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/shreysshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="shreysshah" height="30" width="40" /></a>
 </p>
