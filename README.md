@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 
-  [![Email](https://github.com/shreyss99/shreyss99/blob/07a9be683c77f96ac8ae423fdd0e1bc0b8ecffd0/mail.png)](mailto:sshah023@illinois.edu)
+  [![Email]<img src="https://github.com/yourusername/yourrepository/raw/main/email.png" width="40" height="40">](mailto:sshah023@illinois.edu)
   <a href="https://linkedin.com/in/shreysshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreysshah" height="30" width="40" /></a>
 </p>
 
