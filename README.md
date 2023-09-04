@@ -1,12 +1,13 @@
 <h1 align="center">Hi there 👋 My name is Shrey Shah </h1>
 <h3 align="center">I'm an enthusiastic software developer and data analyst. I code because it's my passion, and I firmly believe in the power of technology to tackle complex real-world challenges. </h3>
+<br>
 <!--
 **shreyss99/shreyss99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
 
 <br>
-
+<br>
 
 - 🔭 I’m a graduate student pursuing MS in Information Management at the University of Illinois at Urbana Champaign
 - 🔭 I’m working on developing a recommender system for Fashion Apparel 👚 using Computer Vision models
