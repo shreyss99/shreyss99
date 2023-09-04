@@ -5,6 +5,7 @@
 Here are some ideas to get you started:
 -->
 
+
 - 🔭 I’m a graduate student pursuing MS in Information Management at the University of Illinois at Urbana Champaign
 - 🔭 I’m working on developing a recommender system for Fashion Apparel 👚 using Computer Vision models
 - 🌱 I’m currently learning about Text Mining (NLP), Data Mining and Information Consulting
