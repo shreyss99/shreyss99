@@ -1,5 +1,5 @@
-### Hi there 👋 My name is Shrey Shah.
-#### I'm an enthusiastic software developer and data analyst. I code because it's my passion, and I firmly believe in the power of technology to tackle complex real-world challenges.
+<h1 align="center">Hi there 👋 My name is Shrey Shah</h1>
+<h3 align="center">I'm an enthusiastic software developer and data analyst. I code because it's my passion, and I firmly believe in the power of technology to tackle complex real-world challenges.</h3>
 <!--
 **shreyss99/shreyss99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
