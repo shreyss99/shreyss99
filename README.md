@@ -7,13 +7,14 @@ Here are some ideas to get you started:
 -->
 
 <br>
-<br>
 
 - 🔭 I’m a graduate student pursuing MS in Information Management at the University of Illinois at Urbana Champaign
 - 🔭 I’m working on developing a recommender system for Fashion Apparel 👚 using Computer Vision models
 - 🌱 I’m currently learning about Text Mining (NLP), Data Mining and Information Consulting
 - 💬 Ask me about Data Analytics, Coding, Projects, General Discussion, Movies, Cooking
 - ⚡ Fun fact: I am passionate about teaching and like playing badminton 🏸 and ice-skating ⛸️. I am an avid foodie and enjoy cooking 👨‍🍳
+
+<br>
 
 <!--
 - 👯 I’m looking to collaborate on ...
