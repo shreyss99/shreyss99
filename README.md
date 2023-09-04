@@ -6,20 +6,21 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on developing a recommender system for Fashion Apparel 👚 using Computer Vision models
+- 🔭 I’m working on developing a recommender system for Fashion Apparel 👚 using Computer Vision models
 - 🌱 I’m currently learning about Text Mining (NLP), Data Mining and Information Consulting
+- 💬 Ask me about Data Analytics, Coding, Projects, General Discussion, Movies, Cooking
+- ⚡ Fun fact: I am passionate about teaching and like playing badminton 🏸 and ice-skating ⛸️. I am an avid foodie and enjoy cooking 👨‍🍳
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 -->
-- 💬 Ask me about Data Analytics, Coding, Projects, General Discussion, Movies, Cooking
-- ⚡ Fun fact: I am passionate about teaching and like playing badminton 🏸 and ice-skating ⛸️. I am an avid foodie and enjoy cooking 👨‍🍳
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 
-  [![Email Me](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F8700%2F8700007.png&tbnid=SbWudDJ49-IjWM&vet=10CBgQxiAoCmoXChMIgNPIoNGQgQMVAAAAAB0AAAAAEA8..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ficon%2Fmail_8700089&docid=7ILbSPB1gXtHxM&w=512&h=512&itg=1&q=mail%20symbol%20colored&ved=0CBgQxiAoCmoXChMIgNPIoNGQgQMVAAAAAB0AAAAAEA8)](mailto:sshah023@illinois.edu)
+  [![Email Me](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficon%2F3AYCSzCO85Qw%2Fmail&psig=AOvVaw1mSVxdLceCc5w0bpEHuBTY&ust=1693905873083000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCIDTyKDRkIEDFQAAAAAdAAAAABAZ)](mailto:sshah023@illinois.edu)
   
   <a href="https://linkedin.com/in/shreysshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreysshah" height="30" width="40" /></a>
 </p>
