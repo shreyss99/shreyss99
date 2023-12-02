@@ -94,3 +94,9 @@ Here are some ideas to get you started:
 <!--CONFLUENCE-->
 <a href="https://www.atlassian.com/software/confluence" target="_blank"> <img src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/confluence/confluence.svg" alt="confluence" align="left" height="42px"/> </a>
 
+
+### 📊 Github Stats
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=shreyss99&rank_icon=github&show_icons=true&theme=github_dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyss99&layout=compact&theme=github_dark&hide_border=false)
+<br>
+
