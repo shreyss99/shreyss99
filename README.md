@@ -47,17 +47,24 @@ Here are some ideas to get you started:
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/docker/docker.svg" alt="docker" align="left" height="42px"/> </a>
 
 <!--MYSQL-->
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" align="left" height="42px"/> </a>
-  
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/shreyss99/README_icons/blob/main/language_and_tools/square/mysql/mysql.png" alt="mysql" align="left" height="42px"/> </a>
+
+<!--POSTGRESQL-->
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" align="left" height="42px"/> </a>
-  
+
+<!--ORACLE-->
 <a href="https://www.oracle.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" align="left" height="42px"/> </a>
-  
+
+<!--MONGODB-->  
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" align="left" height="42px"/> </a>
+
+<!--NEO4J-->  
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" align="left" height="42px"/> </a>
 
 <!--JUPYTER-->
 <a href="https://jupyter.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" align="left" height="42px"/> </a>
-  
+
+<!--PANDAS-->
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original-wordmark.svg" alt="pandas" align="left" height="42px"/> </a>
 
 <!--TABLEAU-->
@@ -71,10 +78,13 @@ Here are some ideas to get you started:
 
 <!--TENSORFLOW-->
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-  
+
+<!--JENKINS-->
   <a href="https://jenkins.io" target="_blank"> <img src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/jenkins/jenkins.svg" align="left" height="42px"/> </a>
-  
+
+<!--JIRA-->
   <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="jira" align="left" height="42px"/> </a>
-  
+
+<!--CONFLUENCE-->
   <a href="https://www.atlassian.com/software/confluence" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" alt="confluence" align="left" height="42px"/> </a>
 
