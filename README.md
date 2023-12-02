@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am passionate about teaching and like playing badminton 🏸 and ice-skating ⛸️. I am an avid foodie and enjoy cooking 👨‍🍳
 
 <br>
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
--->
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
@@ -29,7 +24,7 @@ Here are some ideas to get you started:
   <a href="https://linkedin.com/in/shreysshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreysshah" height="30" width="40" /></a>
 </p>
 
-<p>
+<div id='lang_tools'>
   
 <h3 align="left">Languages and Tools:</h3>
 
@@ -96,17 +91,17 @@ Here are some ideas to get you started:
 <!--CONFLUENCE-->
 <a href="https://www.atlassian.com/software/confluence" target="_blank"> <img src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/confluence/confluence.svg" alt="confluence" align="left" height="42px"/> </a>
 
-</p>
+</div>
 
 <br>
 
-<p>
+<div id='git_stats'>
   
 ![Stats Overview](https://github-readme-stats.vercel.app/api?username=shreyss99&rank_icon=github&show_icons=true&theme=github_dark)
 <br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyss99&layout=compact&theme=github_dark&hide_border=false)
 
-</p>
+</div>
 
 <br>
 
