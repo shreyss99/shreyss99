@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <div id='lang_tools'>
   
-<h3 align="left">Languages and Tools:</h3>
+### 🔨 Languages and Tools:
 
 <!--AWS-->
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/aws/aws.svg" alt="aws" align="left"  height="42px"/> </a> 
@@ -93,6 +93,7 @@ Here are some ideas to get you started:
 
 </div>
 
+<br>
 <br>
 
 ### 📊 Github Stats
