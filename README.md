@@ -31,10 +31,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-
-
 <!--AWS-->
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/aws/aws.svg" alt="aws" align="left"  height="42px"/> </a> 
 
@@ -67,8 +63,9 @@ Here are some ideas to get you started:
 
 <!--GIT-SCM-->
   <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" align="left" height="42px"/> </a>
-  
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="django" align="left" height="42px"/> </a>
+
+<!--TENSORFLOW-->
+<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
   
   <a href="https://jenkins.io" target="_blank"> <img src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/jenkins/jenkins.svg" align="left" height="42px"/> </a>
   
