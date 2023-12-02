@@ -64,12 +64,13 @@ Here are some ideas to get you started:
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" align="left" height="42px"/> </a>
   
   <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original-wordmark.svg" alt="pandas" align="left" height="42px"/> </a>
-  
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" align="left" height="42px"/> </a>
+
+<!--GIT-SCM-->
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" align="left" height="42px"/> </a>
   
   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="django" align="left" height="42px"/> </a>
   
-  <a href="https://jenkins.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" align="left" height="42px"/> </a>
+  <a href="https://jenkins.io" target="_blank"> <img src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/jenkins/jenkins.svg" align="left" height="42px"/> </a>
   
   <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="jira" align="left" height="42px"/> </a>
   
