@@ -56,13 +56,13 @@ Here are some ideas to get you started:
 <a href="https://www.oracle.com/" target="_blank"> <img src="https://github.com/shreyss99/README_icons/blob/main/language_and_tools/square/oracle/oracle.png" alt="oracle" align="left" height="42px"/> </a>
 
 <!--MONGODB-->  
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" align="left" height="42px"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/shreyss99/README_icons/blob/main/language_and_tools/square/mongodb/mongodb.png" alt="mongodb" align="left" height="42px"/> </a>
 
 <!--NEO4J-->  
 <a href="https://neo4j.com/" target="_blank"> <img src="https://github.com/shreyss99/README_icons/blob/main/language_and_tools/square/neo4j/neo4j.png" alt="neo4j" align="left" height="42px"/> </a>
 
 <!--JUPYTER-->
-<a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/shreyss99/README_icons/blob/main/language_and_tools/square/jupyter/jupyter.png" alt="jupyter" align="left" height="42px"/> </a>
+<a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/jupyter/jupyter.webpp" alt="jupyter" align="left" height="42px"/> </a>
 
 <!--PANDAS-->
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://github.com/shreyss99/README_icons/blob/main/language_and_tools/square/pandas/pandas.png" alt="pandas" align="left" height="42px"/> </a>
