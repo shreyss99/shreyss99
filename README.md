@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/docker/docker.svg" alt="docker" align="left" height="42px"/> </a>
 
 <!--MYSQL-->
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/shreyss99/README_icons/blob/main/language_and_tools/square/mysql/mysql.png" alt="mysql" align="left" height="42px"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/shreyss99/README_icons/blob/main/language_and_tools/square/mysql/mysql.png" alt="mysql" align="left" height="40px" width="60px"/> </a>
 
 <!--POSTGRESQL-->
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" align="left" height="42px"/> </a>
