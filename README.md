@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" align="left" height="42px"/> </a>
 
 <!--ORACLE-->
-<a href="https://www.oracle.com/" target="_blank"> <img src="https://github.com/shreyss99/README_icons/blob/main/language_and_tools/square/oracle/oracle.jpeg" alt="oracle" align="left" height="42px"/> </a>
+<a href="https://www.oracle.com/" target="_blank"> <img src="https://github.com/shreyss99/README_icons/blob/main/language_and_tools/square/oracle/oracle.png" alt="oracle" align="left" height="42px"/> </a>
 
 <!--MONGODB-->  
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" align="left" height="42px"/> </a>
