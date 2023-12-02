@@ -77,7 +77,7 @@ Here are some ideas to get you started:
   <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" align="left" height="42px"/> </a>
 
 <!--KAFKA-->
-  <a href="https://kafka.apache.org/" target="_blank"> <img src="https://github.com/shreyss99/README_icons/blob/main/language_and_tools/square/kaafka/kaafka.svg" alt="git" align="left" height="42px"/> </a>
+  <a href="https://kafka.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/kaafka/kaafka.svg" alt="git" align="left" height="42px"/> </a>
 
 <!--TENSORFLOW-->
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
@@ -86,8 +86,8 @@ Here are some ideas to get you started:
   <a href="https://jenkins.io" target="_blank"> <img src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/jenkins/jenkins.svg" align="left" height="42px"/> </a>
 
 <!--JIRA-->
-  <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="jira" align="left" height="42px"/> </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://github.com/shreyss99/README_icons/blob/main/language_and_tools/square/jira/jira.jpeg" alt="jira" align="left" height="42px"/> </a>
 
 <!--CONFLUENCE-->
-  <a href="https://www.atlassian.com/software/confluence" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" alt="confluence" align="left" height="42px"/> </a>
+  <a href="https://www.atlassian.com/software/confluence" target="_blank"> <img src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/confluence/confluence.svg" alt="confluence" align="left" height="42px"/> </a>
 
