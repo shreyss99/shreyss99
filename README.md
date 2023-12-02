@@ -29,6 +29,8 @@ Here are some ideas to get you started:
   <a href="https://linkedin.com/in/shreysshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreysshah" height="30" width="40" /></a>
 </p>
 
+<p>
+  
 <h3 align="left">Languages and Tools:</h3>
 
 <!--AWS-->
@@ -94,12 +96,17 @@ Here are some ideas to get you started:
 <!--CONFLUENCE-->
 <a href="https://www.atlassian.com/software/confluence" target="_blank"> <img src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/confluence/confluence.svg" alt="confluence" align="left" height="42px"/> </a>
 
-<br>
+</p>
+
 <br>
 
+<p>
+  
 ![Stats Overview](https://github-readme-stats.vercel.app/api?username=shreyss99&rank_icon=github&show_icons=true&theme=github_dark)
 <br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyss99&layout=compact&theme=github_dark&hide_border=false)
+
+</p>
 
 <br>
 
