@@ -74,20 +74,23 @@ Here are some ideas to get you started:
 <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://github.com/shreyss99/README_icons/blob/main/language_and_tools/square/power_bi/power_bi.png" alt="powerbi" align="left" height="42px"/> </a>
 
 <!--GIT-SCM-->
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" align="left" height="42px"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" align="left" height="42px"/> </a>
 
 <!--KAFKA-->
-  <a href="https://kafka.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/kaafka/kaafka.svg" alt="git" align="left" height="42px"/> </a>
+<a href="https://kafka.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/kaafka/kaafka.jpeg" alt="git" align="left" height="42px"/> </a>
+
+<!--BASH-->
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/bash/bash.svg" alt="bash" align="left" height="42px"/> </a>
 
 <!--TENSORFLOW-->
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 
 <!--JENKINS-->
-  <a href="https://jenkins.io" target="_blank"> <img src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/jenkins/jenkins.svg" align="left" height="42px"/> </a>
+<a href="https://jenkins.io" target="_blank"> <img src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/jenkins/jenkins.svg" align="left" height="42px"/> </a>
 
 <!--JIRA-->
-  <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://github.com/shreyss99/README_icons/blob/main/language_and_tools/square/jira/jira.jpeg" alt="jira" align="left" height="42px"/> </a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://github.com/shreyss99/README_icons/blob/main/language_and_tools/square/jira/jira.jpeg" alt="jira" align="left" height="42px"/> </a>
 
 <!--CONFLUENCE-->
-  <a href="https://www.atlassian.com/software/confluence" target="_blank"> <img src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/confluence/confluence.svg" alt="confluence" align="left" height="42px"/> </a>
+<a href="https://www.atlassian.com/software/confluence" target="_blank"> <img src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/confluence/confluence.svg" alt="confluence" align="left" height="42px"/> </a>
 
