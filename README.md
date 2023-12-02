@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <a href="https://www.tableau.com/" target="_blank"> <img src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/tableau/tableau.svg" alt="tableau" align="left" height="42px"/> </a>
 
 <!--POWERBI-->
-<a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/power_bi/power_bi.png" alt="powerbi" align="left" height="42px"/> </a>
+<a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://github.com/shreyss99/README_icons/blob/main/language_and_tools/square/power_bi/power_bi.png" alt="powerbi" align="left" height="42px"/> </a>
 
 <!--GIT-SCM-->
   <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/shreyss99/README_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" align="left" height="42px"/> </a>
