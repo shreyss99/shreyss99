@@ -99,7 +99,6 @@ Here are some ideas to get you started:
 <div id='git_stats'>
   
 ![Stats Overview](https://github-readme-stats.vercel.app/api?username=shreyss99&rank_icon=github&show_icons=true&theme=github_dark)
-<br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyss99&layout=compact&theme=github_dark&hide_border=false)
 
 </div>
