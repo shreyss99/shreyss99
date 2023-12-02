@@ -95,6 +95,7 @@ Here are some ideas to get you started:
 
 <br>
 
+### 📊 Github Stats
 <div id='git_stats'>
   
 ![Stats Overview](https://github-readme-stats.vercel.app/api?username=shreyss99&rank_icon=github&show_icons=true&theme=github_dark)
