@@ -114,7 +114,6 @@ Here are some ideas to get you started:
   
 ![Stats Overview](https://github-readme-stats.vercel.app/api?username=shreyss99&rank_icon=github&show_icons=true&theme=github_dark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyss99&layout=compact&theme=github_dark&hide_border=false)
-![Achievements](https://github-profile-trophy.vercel.app/?username=shreyss99&layout=compact&theme=darkhub&hide_border=true)
 
 </div>
 
