@@ -8,10 +8,11 @@ Here are some ideas to get you started:
 
 <br>
 
-- 🔭 I’m a graduate student pursuing MS in Information Management at the University of Illinois at Urbana Champaign
-- 🔭 I’m working on developing a recommender system for Fashion Apparel 👚 using Computer Vision models
-- 🌱 I’m currently learning about Text Mining (NLP), Data Mining and Information Consulting
-- 💬 Ask me about Data Analytics, Coding, Projects, General Discussion, Movies, Cooking
+- I’m a graduate student from the University of Illinois at Urbana Champaign
+- I’m developing a code collaboration system for developers to sync their code and interact with others improving efficieny using React.js and WebSockets
+- 🔭 I made a recommender system for displaying 5 similar Fashion Apparel 👚 using Computer Vision models
+- 🌱 I’m currently learning about Frontend, Backend and Automation Testing
+- 💬 Ask me about Software Development, Data Analytics, Coding, Projects, General Discussion, Movies, Cooking
 - ⚡ Fun fact: I am passionate about teaching and like playing badminton 🏸 and ice-skating ⛸️. I am an avid foodie and enjoy cooking 👨‍🍳
 
 <br>
